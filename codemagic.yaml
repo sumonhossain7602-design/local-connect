@@ -28,3 +28,10 @@ workflows:
 
     artifacts:
       - android/app/build/outputs/**/*.apk
+package.json
+App.js
+app.json
+server.js
+codemagic.yaml
+.gitignore
+README.md
