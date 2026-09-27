@@ -1,1 +1,9 @@
 local-connectlocal-connect
+
+package.json
+App.js
+app.json
+server.js
+codemagic.yaml
+.gitignore
+README.md
